@@ -1,0 +1,10 @@
+{
+  "author": "Puppet Labs",
+  "dependencies": [],
+  "license": "Apache License 2.0",
+  "name": "puppetlabs-puppet_gem",
+  "project_page": "",
+  "version": "0.1.0",
+  "summary": "Puppet Labs Puppet Gem Module",
+  "source": "https://github.com/puppetlabs/puppet"
+}
